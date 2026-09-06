@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Version](https://img.shields.io/badge/version-0.69.9.6-brightgreen.svg)](https://github.com/thaidelphi/YTPRO-Public/releases)
+[![Version](https://img.shields.io/badge/version-0.69.9.7-brightgreen.svg)](https://github.com/thaidelphi/YTPRO-Public/releases)
 [![APK Download](https://img.shields.io/badge/Download-Latest%20APK-red.svg?logo=android&logoColor=white)](https://github.com/thaidelphi/YTPRO-Public/raw/main/TewanTubePro_latest.apk)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
@@ -25,6 +25,8 @@
 * 👆 **ควบคุมเสียงและแสงด้วยการปัด (Gesture Controls)**: ปัดหน้าจอขึ้น-ลงเพื่อปรับเสียงหรือความสว่าง
 * 🔄 **สลับฝั่งควบคุมด้วยการปัด (Swap Gesture Sides)**: เหมาะสำหรับจอแอนดรอยด์ติดรถยนต์พวงมาลัยขวา ย้ายแถบปรับเสียงมาอยู่ฝั่งซ้ายใกล้คนขับ
 * 🌓 **ธีมการแสดงผล (Theme Controller)**: รองรับทั้ง **โหมดมืด (Dark)**, **โหมดสว่าง (Light)**, และ **ตามระบบ (Follow System)**
+* 🌐 **ภาษาการใช้งาน (Multi-Language)**: ภาษาไทย / English / ปรับตามระบบอัตโนมัติ (Follow System)
+* 🔄 **ตรวจสอบอัปเดตอัตโนมัติ (In-App Silent Auto-Update)**: ตรวจสอบเวอร์ชันใหม่อยู่เบื้องหลังและดาวน์โหลดติดตั้งได้ทันที
 * 🎬 **จำกัด 30FPS & ปิด Codec ที่ไม่จำเป็น (Block 60FPS)**: ป้องกันเครื่องกระตุกและลดความร้อนสำหรับจอแอนดรอยด์รถยนต์
 * 🤖 **Google Gemini AI**: สรุปเนื้อหา วิเคราะห์ประเด็นสำคัญในวิดีโอด้วย AI
 * 💾 **ดาวน์โหลดวิดีโอและเสียง (Media Downloader)**: โหลดคลิปเก็บไว้ดูออฟไลน์ หรือแยกเฉพาะไฟล์เสียง MP3
@@ -36,7 +38,7 @@
 | ไฟล์ | ลิงก์ดาวน์โหลดโดยตรง | คำอธิบาย |
 | :--- | :--- | :--- |
 | **เวอร์ชันล่าสุด** | [TewanTubePro_latest.apk](https://github.com/thaidelphi/YTPRO-Public/raw/main/TewanTubePro_latest.apk) | แนะนำ (อัปเดตเป็นเวอร์ชันล่าสุดเสมอ) |
-| **เวอร์ชัน 0.69.9.6** | [TewanTubePro_version_0.69.9.6.apk](https://github.com/thaidelphi/YTPRO-Public/raw/main/TewanTubePro_version_0.69.9.6.apk) | เวอร์ชันเสถียรล่าสุด |
+| **เวอร์ชัน 0.69.9.7** | [TewanTubePro_version_0.69.9.7.apk](https://github.com/thaidelphi/YTPRO-Public/raw/main/TewanTubePro_version_0.69.9.7.apk) | เวอร์ชันเสถียรล่าสุด |
 
 ---
 
